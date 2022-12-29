@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/khainvvp/test3.git/static/css/main.a957ea90.css",
+    "main.js": "/khainvvp/test3.git/static/js/main.a96fe8fd.js",
+    "static/js/787.3e88fd70.chunk.js": "/khainvvp/test3.git/static/js/787.3e88fd70.chunk.js",
+    "static/media/bgr.png": "/khainvvp/test3.git/static/media/bgr.f048442dbe76f353d42b.png",
+    "static/media/cart-item.png": "/khainvvp/test3.git/static/media/cart-item.e1ebced655800f486b93.png",
+    "index.html": "/khainvvp/test3.git/index.html",
+    "main.a957ea90.css.map": "/khainvvp/test3.git/static/css/main.a957ea90.css.map",
+    "main.a96fe8fd.js.map": "/khainvvp/test3.git/static/js/main.a96fe8fd.js.map",
+    "787.3e88fd70.chunk.js.map": "/khainvvp/test3.git/static/js/787.3e88fd70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a957ea90.css",
+    "static/js/main.a96fe8fd.js"
+  ]
+}
